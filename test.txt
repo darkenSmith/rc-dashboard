@@ -1,0 +1,34 @@
+Array
+(
+    [1] => 30379750
+    [ord] => 1094852
+    [cr] => none
+    [CaseSkill] => craig.lewis
+    [cdate] => 04/06/2020
+    [dd] => no Job Description
+    [3] => Awaiting Dispatch
+    [4] => Repair Centre
+    [ser] => 30116934H
+    [6] => Toshiba Notebook
+    [7] => Constant Fault
+    [iss] => Power
+    [9] => Other Power Issue
+    [10] => Clifford Idedia
+    [con] => Scott Edebiri-Akongie
+    [12] => 
+    [13] => 01980612865
+    [14] => Clifford.Idedia@phe.gov.uk
+    [addr] => Public Health England3rd floor, 2 RivergateTemple Quay
+    [16] => none
+    [17] => 3rd floor, 2 Rivergate
+    [18] => Temple Quay
+    [19] => Bristol
+    [20] => BS1 6EH
+    [21] => none
+    [casedesc] => See case 30379748 for correspondence 
+will not charge, will not connect to the LAN network or Wi-Fi and new user logon no successful. Attempt PXE boot to install a system image on these laptops have also failed .I have tried different docks and a known working charger. 
+    [23] => TOSNOT-984
+    [24] => 1094852
+    [25] => Toshiba NB 3Yr Onsite
+    [26] => 26/03/2023
+)
