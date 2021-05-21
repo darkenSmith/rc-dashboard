@@ -5,8 +5,8 @@ if (php_uname("n") == 'STO-WRK-022' ||  php_uname("n") == 'STO-LAP-094') {
   // Developer
   $sqlHost    = 'sqlsrv:Server=MPLDB\MPLDB;';
   $db         = 'Database=stone';
-  $user       = 'coldfusion';
-  $pw         = 'icicle';
+  $user       = '*****';
+  $pw         = '*****';
 
   $green_sqlHost  = "sqlsrv:Server=greenoak;";
   $green_db       = "Database=we3recycler";
